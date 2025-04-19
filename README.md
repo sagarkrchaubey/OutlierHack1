@@ -53,6 +53,12 @@ This is where the magic happens! Use it to manage your day like a boss:
 
 ---
 
+## Real-Time Implementation 🌐
+
+You can check out the live implementation of this project at [Chrono Time Manager Live](https://papaya-dasik-a0da07.netlify.app/).
+
+---
+
 ## Contributing 🙅‍♂️
 This is a personal project for a hackathon, so no edits or pull requests, please. But thanks for checking it out!
 
