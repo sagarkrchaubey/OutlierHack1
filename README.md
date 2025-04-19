@@ -1,5 +1,3 @@
-Here’s a rewritten version of your `README.md` file based on your request:
-
 ---
 
 # Chrono Time Manager ⏱️
